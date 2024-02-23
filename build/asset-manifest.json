@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d65255b5.css",
+    "main.js": "/static/js/main.9078bf03.js",
+    "static/js/453.abf0d23b.chunk.js": "/static/js/453.abf0d23b.chunk.js",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "index.html": "/index.html",
+    "main.d65255b5.css.map": "/static/css/main.d65255b5.css.map",
+    "main.9078bf03.js.map": "/static/js/main.9078bf03.js.map",
+    "453.abf0d23b.chunk.js.map": "/static/js/453.abf0d23b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d65255b5.css",
+    "static/js/main.9078bf03.js"
+  ]
+}
